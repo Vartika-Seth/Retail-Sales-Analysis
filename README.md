@@ -1,4 +1,4 @@
-<img width="590" height="332" alt="image" src="https://github.com/user-attachments/assets/1c61aee8-1963-4deb-b6e7-5164edc81702" /># 📊 Retail Sales & Profitability Analysis (Power BI)
+# 📊 Retail Sales & Profitability Analysis (Power BI)
 
 An end-to-end Power BI project focused on analyzing retail sales performance and uncovering the gap between **revenue growth and profitability** using the Superstore dataset.
 
